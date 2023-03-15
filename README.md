@@ -16,5 +16,5 @@ Implement a 1-3-1 network with bias by means of batch backpropagation
 ## Result
 ### + Trained weight & bias
 ![](Pic/weight.png)
-###　+ Loss and Accuracy
+### + Loss and Accuracy
 ![](Pic/res.png)
